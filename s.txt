@@ -1,0 +1,6 @@
+G|11/33/11|saodsadoasd123
+S|11/22/33|asdsad|A1|A2|AA3
+E|12/22/33|eve|adsa|asdsa
+S|15/22/33|shop|s1|s2|s3
+H|22/33/33|hw|subj1
+G|11/33/44|gen
